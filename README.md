@@ -19,7 +19,7 @@ $ docker-compose up -d
 $ docker-compose run web bundle exec rake db:create
 
 
-参考URL---
+参考URL
 https://qiita.com/ftbyu/items/c2db4cbce602b0ad077c
 
 https://teratail.com/questions/193008
